@@ -6,13 +6,9 @@ wheels/
 *.egg-info
 
 .venv
+.env
 
-/shelf/
-/workspace.xml
+.idea/
+.claude/
 
-/httpRequests/
-
-/queries/
-
-/dataSources/
-/dataSources.local.xml
+*.db
